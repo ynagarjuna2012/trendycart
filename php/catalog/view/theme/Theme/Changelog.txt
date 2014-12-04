@@ -1,0 +1,15 @@
+May 24 -
+
+Updated for Opencart 1.5.3
+
+Altered Files:
+1. product.tpl
+2. search.tpl
+3. stylesheet.css
+4. custom.js
+
+Altered Folders:
+1. Checkout
+2. Account
+3. Affiliate
+
